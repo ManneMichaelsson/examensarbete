@@ -1,0 +1,401 @@
+text,label
+Do you have any animals for sale right now?,Soka_Djurbestand
+Which dogs are in stock?,Soka_Djurbestand
+Can I see all your horses?,Soka_Djurbestand
+I want to look at the animal stock.,Soka_Djurbestand
+Which breeds do you have at home?,Soka_Djurbestand
+What animals do you have inside?,Soka_Djurbestand
+Give me a list of available pets.,Soka_Djurbestand
+Are there any new animals that have come in?,Soka_Djurbestand
+I am looking for a new pet.,Soka_Djurbestand
+Show me all the animals in the shop.,Soka_Djurbestand
+I am looking for a puppy.,Soka_Djurbestand
+Do you have any labradors?,Soka_Djurbestand
+I am looking for a small companion dog.,Soka_Djurbestand
+Do you have any large dog breeds?,Soka_Djurbestand
+Is there a Golden Retriever available?,Soka_Djurbestand
+Do you have dogs suitable for families with children?,Soka_Djurbestand
+Show me all the dog breeds you have.,Soka_Djurbestand
+I want a dog that is good at agility.,Soka_Djurbestand
+Do you have dogs that are used to cats?,Soka_Djurbestand
+Are there females in your breeding?,Soka_Djurbestand
+I want to find a new show jumping horse.,Soka_Djurbestand
+Do you have any D-ponies for sale?,Soka_Djurbestand
+Can I see all your dressage horses?,Soka_Djurbestand
+I am looking for a calm family horse.,Soka_Djurbestand
+Show me all the mares you have.,Soka_Djurbestand
+Do you have any riding school horses for sale?,Soka_Djurbestand
+I am looking for a Fjord horse.,Soka_Djurbestand
+Which horses are suitable for beginners?,Soka_Djurbestand
+Do you have any thoroughbreds?,Soka_Djurbestand
+Are there any young horses inside?,Soka_Djurbestand
+I want a male dog over five years old.,Soka_Djurbestand
+Show me all animals under two years old.,Soka_Djurbestand
+Do you have white horses?,Soka_Djurbestand
+I am looking for an older horse.,Soka_Djurbestand
+Are there any gray dogs?,Soka_Djurbestand
+Show me only stallions.,Soka_Djurbestand
+I want a dog that is at least 8 years old.,Soka_Djurbestand
+Which animals are male?,Soka_Djurbestand
+Do you have any brown ponies?,Soka_Djurbestand
+I am looking for a middle-aged female dog.,Soka_Djurbestand
+Can I filter the search results?,Soka_Djurbestand
+How do I search for a specific breed?,Soka_Djurbestand
+Can I search for multiple breeds at once?,Soka_Djurbestand
+Show me only the animals in Skane.,Soka_Djurbestand
+Is it possible to search for an animal based on temperament?,Soka_Djurbestand
+How do I perform an advanced search?,Soka_Djurbestand
+Can you limit the search to horses only?,Soka_Djurbestand
+How can I see all the dogs you have?,Soka_Djurbestand
+I want to search for a specific animal name.,Soka_Djurbestand
+Where can I see the list of all animals?,Soka_Djurbestand
+How does it work when buying a horse?,Adoptionsprocess
+What requirements do you have for a buyer?,Adoptionsprocess
+How long does the adoption process take?,Adoptionsprocess
+Is it necessary to make an expression of interest?,Adoptionsprocess
+How do I apply to adopt a dog?,Adoptionsprocess
+What are the steps in your process?,Adoptionsprocess
+What does an adoption agreement look like?,Adoptionsprocess
+Is a home visit mandatory?,Adoptionsprocess
+Can I test ride the horse before buying?,Adoptionsprocess
+What happens after I have decided on an animal?,Adoptionsprocess
+How much does a puppy cost on average with you?,Adoptionsprocess
+What is included in the price when buying a horse?,Adoptionsprocess
+Can I pay in installments?,Adoptionsprocess
+What payment methods do you accept?,Adoptionsprocess
+Do I have to pay the full amount immediately?,Adoptionsprocess
+What is the deposit fee?,Adoptionsprocess
+Do I get the deposit back if I change my mind?,Adoptionsprocess
+Are the prices negotiable?,Adoptionsprocess
+What does it cost to adopt a dog?,Adoptionsprocess
+Are there any hidden fees?,Adoptionsprocess
+When do I sign the purchase agreement?,Adoptionsprocess
+Do I get a receipt for the purchase?,Adoptionsprocess
+Are any papers included with the horse?,Adoptionsprocess
+What is in your terms of purchase?,Adoptionsprocess
+Is the contract legally binding?,Adoptionsprocess
+Do I get a folder with the animal history?,Adoptionsprocess
+How is the change of ownership registered?,Adoptionsprocess
+Are ID documents included?,Adoptionsprocess
+Do I have to sign digitally or on paper?,Adoptionsprocess
+Why do you need my personal information?,Adoptionsprocess
+Can I cancel my purchase after a week?,Adoptionsprocess
+Do you have a return policy for animals?,Adoptionsprocess
+What is your return policy?,Adoptionsprocess
+When can I pick up my new dog?,Adoptionsprocess
+Do you offer horse transport?,Adoptionsprocess
+Can you deliver the puppy to my home?,Adoptionsprocess
+How much time do I have to pick up the animal?,Adoptionsprocess
+What happens if the animal does not thrive with me?,Adoptionsprocess
+Can I visit the animal before I pick it up?,Adoptionsprocess
+How long is the right of withdrawal?,Adoptionsprocess
+I have filled out the interest form.,Adoptionsprocess,
+Can I buy an animal as a gift?,Adoptionsprocess
+What insurance do I need to take out?,Adoptionsprocess
+Is the process different for horses and dogs?,Adoptionsprocess
+How do I know if I am approved as an adopter?,Adoptionsprocess
+I have a question about the contract for the pony.,Adoptionsprocess
+What is included in the starter pack?,Adoptionsprocess
+How do I reserve a dog?,Adoptionsprocess
+What happens if I cannot meet the requirements?,Adoptionsprocess
+Do you have a waiting list?,Adoptionsprocess
+How do your online auctions work?,Auktion_Info
+When is the next horse auction?,Auktion_Info
+Which horses are up for bidding right now?,Auktion_Info
+I want to know everything about your auction rules.,Auktion_Info
+Do you have an auction calendar?,Auktion_Info
+What is the purpose of the auction?,Auktion_Info
+How does the auction differ from a regular purchase?,Auktion_Info
+Where can I find the auction terms?,Auktion_Info
+Which animals can I bid on?,Auktion_Info
+Do you sell dogs at auction too?,Auktion_Info
+How do I place a bid?,Auktion_Info
+What is the minimum bid I can place?,Auktion_Info
+What is the bidding interval?,Auktion_Info
+Can I cancel a placed bid?,Auktion_Info
+How do I know if I have been outbid?,Auktion_Info
+Do I need to register to be able to bid?,Auktion_Info
+How do automatic bids work?,Auktion_Info
+Can I see who is leading the bidding?,Auktion_Info
+Is the bidding anonymous?,Auktion_Info
+What happens if two people bid the same amount at the same time?,Auktion_Info
+When does the auction for the pony close?,Auktion_Info
+What does it mean that the end time is extended?,Auktion_Info
+How much time do I have to pay if I win?,Auktion_Info
+When will I receive information if I won?,Auktion_Info
+What happens if I do not pay on time?,Auktion_Info
+What is the reserve price?,Auktion_Info
+Does the animal have a starting price?,Auktion_Info
+When do I get my animal after the auction ends?,Auktion_Info
+What is the auction fee?,Auktion_Info
+Can I pay upon pickup?,Auktion_Info
+Can I visit the horse before I place a bid?,Auktion_Info
+Where can I find the veterinary inspection for the auction horse?,Auktion_Info
+Are there videos of the animal?,Auktion_Info
+Are all auction horses inspected?,Auktion_Info
+Why is this particular horse being sold at auction?,Auktion_Info
+Can I get more information about the horse temperament?,Auktion_Info
+Is there hidden defect insurance on auction animals?,Auktion_Info
+Do I get all the documentation at auction?,Auktion_Info
+How do I know the horse is healthy?,Auktion_Info
+Is there a full description of the horse?,Auktion_Info
+What should I do after I have won the auction?,Auktion_Info
+I am having trouble placing a bid on the website.,Auktion_Info
+What are the price statistics for similar horses?,Auktion_Info
+How does the win confirmation work?,Auktion_Info
+Are the purchase terms the same as for regular purchases?,Auktion_Info
+Where can I follow the auction live?,Auktion_Info
+What kind of payment guarantee do I have?,Auktion_Info
+Do I need to have a specific bank to pay the win?,Auktion_Info
+Do you have any demo on how to bid?,Auktion_Info
+Can I see all bids placed?,Auktion_Info
+Do the animals have veterinary certificates?,Halso_Garantier
+Are all puppies inspected?,Halso_Garantier
+When was the last veterinary check done?,Halso_Garantier
+Is a health certificate included?,Halso_Garantier
+How do I know the animal is healthy?,Halso_Garantier
+Is the horse recently examined?,Halso_Garantier
+Can I bring my own veterinarian before purchase?,Halso_Garantier
+Do you have records of the dog health status?,Halso_Garantier
+Can I see the inspection report?,Halso_Garantier
+What vaccinations has the horse received?,Halso_Garantier
+Do you have hidden defect insurance?,Halso_Garantier
+How long is the hidden defect insurance valid?,Halso_Garantier
+What does the guarantee cover if the animal gets sick?,Halso_Garantier
+What do I do if I discover a hidden defect?,Halso_Garantier
+Are all animals insured at purchase?,Halso_Garantier
+Which insurance company do you recommend?,Halso_Garantier
+Do I get help if the puppy gets sick after purchase?,Halso_Garantier
+Is there any difference between the dog and horse guarantee?,Halso_Garantier
+Coverage in case of eventual health hazard.,Halso_Garantier
+Does hidden defect insurance also apply to auction?,Halso_Garantier
+Are all dogs microchipped?,Halso_Garantier
+Is a pedigree included?,Halso_Garantier
+Is the horse ID marked?,Halso_Garantier
+Have you done DNA tests on the breeding animals?,Halso_Garantier
+Do the puppies have passports?,Halso_Garantier
+What tests have been done regarding hereditary diseases?,Halso_Garantier
+Has the horse been X-rayed?,Halso_Garantier
+Have you done an Elbow or Hip X-ray on the dogs?,Halso_Garantier
+Is a vaccination card included?,Halso_Garantier
+Can I get copies of all the animal tests?,Halso_Garantier
+Has the horse had colic before?,Halso_Garantier
+Does the dog have any allergies?,Halso_Garantier
+Are there known diseases in the family?,Halso_Garantier
+Does the animal have any previous injury?,Halso_Garantier
+Are they dewormed?,Halso_Garantier
+Have you treated them for parasites?,Halso_Garantier
+How have you handled known diseases?,Halso_Garantier
+What is the history regarding wound injuries?,Halso_Garantier
+Do I get information about the parent animals health status?,Halso_Garantier
+Are they free from kennel cough?,Halso_Garantier
+What should I do if the animal seems sick the first few days?,Halso_Garantier
+Can you recommend a good veterinarian?,Halso_Garantier
+What is included in your health package?,Halso_Garantier
+How should I take care of the hooves?,Halso_Garantier
+When does the puppy need the next vaccination?,Halso_Garantier
+Do you provide support regarding health related questions after purchase?,Halso_Garantier
+What type of medical documentation do I receive?,Halso_Garantier
+What is your policy regarding hidden defects?,Halso_Garantier
+Is there a statement about the horse durability?,Halso_Garantier
+How do you guarantee the well-being of the animals?,Halso_Garantier
+I need to talk to a human now.,Kontakta_Agent
+Connect me to an officer.,Kontakta_Agent
+I do not want to talk to you.,Kontakta_Agent,
+Can you send me to an employee?,Kontakta_Agent,
+Put me in touch with customer service.,Kontakta_Agent,
+I want human support.,Kontakta_Agent
+I need to talk to a person.,Kontakta_Agent
+Can I get the number for your customer service?,Kontakta_Agent
+I want contact with a salesperson.,Kontakta_Agent
+Do not answer me.,Kontakta_Agent,
+This cannot be solved with a bot.,Kontakta_Agent
+I am frustrated.,Kontakta_Agent,
+I need help with a complex problem.,Kontakta_Agent
+The bot does not understand my question.,Kontakta_Agent
+It is a complicated case.,Kontakta_Agent
+I have already tried with you.,Kontakta_Agent,
+Can you escalate the case?,Kontakta_Agent
+I want to speak with the manager.,Kontakta_Agent
+You cannot help me.,Kontakta_Agent
+I have to talk to someone who knows.,Kontakta_Agent
+Could I speak with one of your employees?,Kontakta_Agent
+Can you connect me to a colleague?,Kontakta_Agent
+Can you ask someone to call me back?,Kontakta_Agent
+I have a question that might be too difficult for you.,Kontakta_Agent
+Would it be possible to get help from an agent?,Kontakta_Agent
+Can I get a live chat with a person?,Kontakta_Agent
+I need some more personal assistance.,Kontakta_Agent
+I have a specific question for Amandas Shop.,Kontakta_Agent
+I wonder if one of your employees can help me.,Kontakta_Agent
+Can I speak with your support staff?,Kontakta_Agent
+I want to talk to Amanda.,Kontakta_Agent
+Put me in touch with the breeding manager.,Kontakta_Agent
+I have a question for the veterinarian.,Kontakta_Agent
+Can I talk to someone in the finance department?,Kontakta_Agent
+I want to contact the owner of Amandas Shop.,Kontakta_Agent
+Can you connect me to someone who knows horses?,Kontakta_Agent
+I want to talk to the person responsible for the dogs.,Kontakta_Agent
+Can I speak with the one who handles guarantees?,Kontakta_Agent
+I need to talk to the seller.,Kontakta_Agent
+Who is responsible for auction questions?,Kontakta_Agent
+Can I email you instead?,Kontakta_Agent
+I want a phone number.,Kontakta_Agent
+Where can I find your contact details?,Kontakta_Agent
+Do you have an email address for support?,Kontakta_Agent
+What are your opening hours?,Kontakta_Agent
+When can I call you?,Kontakta_Agent
+Can you give me a link to the contact form?,Kontakta_Agent
+When is the best time to contact you?,Kontakta_Agent
+I want to book a meeting.,Kontakta_Agent
+How do I contact you in the best way?,Kontakta_Agent
+Hello.,Halsning
+Good day.,Halsning
+Hello there!,Halsning
+Hi!,Halsning
+Hello to you.,Halsning
+Are you there?,Halsning
+I am saying hello.,Halsning
+Good morning.,Halsning
+Good evening.,Halsning
+Nice chatting with you.,Halsning
+Hello and welcome.,Halsning
+How are you?,Halsning
+Are you a bot?,Halsning
+Help me.,Halsning
+Hello everyone.,Halsning
+I am here now.,Halsning
+Can I ask a question?,Halsning
+Thanks for answering.,Halsning
+I hope you are having a good day.,Halsning
+I have a case.,Halsning
+Thanks!,Halsning
+Thank you very much.,Halsning
+Thanks for the help.,Halsning
+Very kind!,Halsning
+Great thanks.,Halsning,
+Good job.,Halsning
+I appreciate it.,Halsning
+Very good thank you.,Halsning,
+That was all.,Halsning
+Super thanks!,Halsning,
+Goodbye.,Halsning
+Talk to you later!,Halsning
+Thanks and bye.,Halsning
+I am finishing now.,Halsning
+Have a good day.,Halsning
+That was good for now.,Halsning
+Have a nice weekend.,Halsning
+See you later.,Halsning
+I am done.,Halsning
+Finished for me.,Halsning
+Hello Amandas Shop!,Halsning
+I was looking for you.,Halsning
+What time is it?,Halsning
+Hey.,Halsning
+Good afternoon.,Halsning
+I am here now.,Halsning
+Lucky that you are online.,Halsning
+I am just wondering a bit.,Halsning
+Nice to see you.,Halsning
+Hiya.,Halsning
+What do you recommend for food for a puppy?,Foder_Tillbehor
+Do you sell hay and haylage?,Foder_Tillbehor
+Do you have special food for allergic dogs?,Foder_Tillbehor
+I am looking for feed supplements for horses.,Foder_Tillbehor
+Can you help me choose the right feed?,Foder_Tillbehor
+Do you have grain-free dog food?,Foder_Tillbehor
+What is the best feed for an older horse?,Foder_Tillbehor
+Do you sell 20 kg feed bags?,Foder_Tillbehor
+Which brands of horse feed do you have?,Foder_Tillbehor
+Is there puppy food without chicken?,Foder_Tillbehor
+Do you have any dog leashes and collars?,Foder_Tillbehor
+I need a new dog bed what sizes do you have?,Foder_Tillbehor,
+Do you sell toys that are durable for large dogs?,Foder_Tillbehor
+What do your transport cages cost?,Foder_Tillbehor
+Do you have seat belts for dogs?,Foder_Tillbehor
+Do I need a harness or a collar?,Foder_Tillbehor
+Where can I find tick repellent?,Foder_Tillbehor
+Do you have nail clippers?,Foder_Tillbehor
+Which brush is best for long-haired dogs?,Foder_Tillbehor
+Do you sell dog treats?,Foder_Tillbehor
+I need a new rain cover for my horse.,Foder_Tillbehor
+Do you have saddles for sale?,Foder_Tillbehor
+Which saddle pad colors do you have in stock?,Foder_Tillbehor
+Do you sell bits and bridles?,Foder_Tillbehor
+I am looking for a new halter.,Foder_Tillbehor
+Do you have protective equipment like leg guards?,Foder_Tillbehor
+How much does a riding crop cost?,Foder_Tillbehor
+Do you sell equipment for eventing?,Foder_Tillbehor
+Can I buy a saddle girth?,Foder_Tillbehor
+Where can I find hoof picks?,Foder_Tillbehor
+Is the product in stock?,Foder_Tillbehor
+How much does X-feed cost?,Foder_Tillbehor
+Can I return an unused dog coat?,Foder_Tillbehor
+What is the delivery time for accessories?,Foder_Tillbehor
+Do you have a sale on any equipment?,Foder_Tillbehor
+Are there size guides for covers?,Foder_Tillbehor
+Are the products with a hidden defect guarantee?,Foder_Tillbehor
+Do I get a discount if I buy a lot of feed?,Foder_Tillbehor
+Can I order the products to your store?,Foder_Tillbehor
+How is the feed packed for shipping?,Foder_Tillbehor
+Can I get the same feed you give your puppies?,Foder_Tillbehor
+I need a small bed for my Sheltie.,Foder_Tillbehor
+What is the best accessory for a jumping horse?,Foder_Tillbehor
+Do you sell books on horse care?,Foder_Tillbehor
+Do you have equipment for dog training?,Foder_Tillbehor
+I want to buy a large bag of the usual dog food.,Foder_Tillbehor
+What type of halters do you have for sale?,Foder_Tillbehor
+Do you have any affordable covers?,Foder_Tillbehor
+I am looking for transport protection for horses.,Foder_Tillbehor
+Which products should I buy for a new horse?,Foder_Tillbehor
+How many inhabitants does Stockholm have?,Out_of_Scope
+What is the national day of Sweden?,Out_of_Scope
+Which is the fastest car in the world?,Out_of_Scope
+Who won the last football World Cup?,Out_of_Scope
+When was Google founded?,Out_of_Scope
+How long does it take to go by train to Gothenburg?,Out_of_Scope
+How does gravity work?,Out_of_Scope
+Can you explain quantum physics?,Out_of_Scope
+Who is the prime minister of Norway?,Out_of_Scope
+What is a solar eclipse?,Out_of_Scope
+Can you recommend a good restaurant in Malmo?,Out_of_Scope
+I have problems with my car.,Out_of_Scope
+Help me choose clothes.,Out_of_Scope
+What is the best recipe for lasagna?,Out_of_Scope
+Do you have any funny joke?,Out_of_Scope
+I have lost my wallet.,Out_of_Scope
+Help me with my homework.,Out_of_Scope
+How long should I boil the eggs?,Out_of_Scope
+Can you sing a song?,Out_of_Scope
+I have a headache.,Out_of_Scope
+When does PostNord deliver my package?,Out_of_Scope
+What is the interest rate at SEB?,Out_of_Scope
+Can I buy shares via you?,Out_of_Scope
+Do you have the same prices as Granngarden?,Out_of_Scope
+What do tickets to Liseberg cost?,Out_of_Scope
+How do I log in to my bank?,Out_of_Scope
+Do you sell Apple products?,Out_of_Scope
+I have a question for my mobile operator.,Out_of_Scope
+Can you order goods from IKEA?,Out_of_Scope
+What is the price of milk at ICA?,Out_of_Scope
+Do you sell garden furniture?,Out_of_Scope
+Do you have used cars?,Out_of_Scope
+Can I rent an apartment with you?,Out_of_Scope
+I am looking for electronics.,Out_of_Scope
+What is your selection of fish?,Out_of_Scope
+Do you have washing machines for sale?,Out_of_Scope
+Do you sell building materials?,Out_of_Scope
+What does a pair of shoes cost?,Out_of_Scope
+Do you have a towing service?,Out_of_Scope
+Can you help me with my CV?,Out_of_Scope
+What do you think of my idea?,Out_of_Scope
+Are you happy?,Out_of_Scope
+What is the meaning of life?,Out_of_Scope
+What is your favorite color?,Out_of_Scope
+Can you speak French?,Out_of_Scope
+What is your opinion on politics?,Out_of_Scope
+What is your name?,Out_of_Scope
+What is your personality?,Out_of_Scope
+Are you an AI?,Out_of_Scope
+How old are you?,Out_of_Scope
