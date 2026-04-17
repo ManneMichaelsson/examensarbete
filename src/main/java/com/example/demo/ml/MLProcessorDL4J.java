@@ -39,12 +39,10 @@ public class MLProcessorDL4J {
     private static final String FILE_PATH = "/corpus.csv";
     private final TokenizerFactory tokenizerFactory = new DefaultTokenizerFactory();
 
-    // FIX 1: Gör dessa till klassfält för att lösa scope-problem
     private Map<String, Integer> labelIndexMap;
     private List<String> sentences; // Behövs för att skapa DataSetIterator senare
     private List<String> rawIntentions;
 
-    // FIX 2: Lägg till fält för den tränade modellen
     private Word2Vec word2VecModel;
     private MultiLayerNetwork neuralNetworkModel;
     private Map<Integer, String> indexToLabelMap; // Mappar index till intention (för 'Predict')
@@ -131,7 +129,6 @@ public class MLProcessorDL4J {
         }
     }
 
-    // FIX 5: Byt ut lokal variabeldeklaration mot att fylla klassfält
     private SentenceIterator loadCorpusAndCreateIterator() throws IOException {
         logger.info("Försöker ladda träningsdata för DL4J...");
         this.sentences = new ArrayList<>(); // Fyller fältet
@@ -199,7 +196,6 @@ public class MLProcessorDL4J {
         return neuralNetworkModel;
     }
 
-    // NY METOD: Returnerar index till label map
     public Map<Integer, String> getIndexToLabelMap() {
         return indexToLabelMap;
     }

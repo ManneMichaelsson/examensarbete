@@ -53,30 +53,33 @@ public class IntentService {
         }
 
         return switch (intent) {
-            case "Soka_Djurbestand" -> String.format(
-                    "Vilken typ av djur är du intresserad av? Jag är %.2f säker på att jag svarade rätt.", confidence
-            );
-            case "Adoptionsprocess" -> String.format(
-                    "Adoptionsprocessen innebär 3 steg: intresseanmälan, hembesök och avtal. Jag är %.2f säker på att jag svarade rätt.", confidence
-            );
-            case "Auktion_Info" -> String.format(
-                    "Auktionen stänger kl 19:00 ikväll. Lycka till! Jag är %.2f säker på att jag svarade rätt.", confidence
-            );
-            case "Halso_Garantier" -> String.format(
-                    "Alla våra djur är veterinärbesiktigade och har en 3-årig dolda fel-försäkring. Jag är %.2f säker på att jag svarade rätt.", confidence
-            );
-            case "Kontakta_Agent" -> String.format(
-                    "Jag kopplar dig direkt till en handläggare. Jag är %.2f säker på att jag svarade rätt.", confidence
-            );
-            case "Halsning" -> String.format(
-                    "Hej och välkommen till Amandas Shop! Vad kan jag hjälpa dig med idag? Jag är %.2f säker på att jag svarade rätt.", confidence
-            );
-            case "Foder_Tillbehor" -> String.format(
-                    "Vi rekommenderar X-märke för valpar. Jag är %.2f säker på att jag svarade rätt.", confidence
-            );
+            case "Soka_Djurbestand" ->
+                    "What type of animal are you interested in? You can find our current stock in the online catalog.";
+
+            case "Adoptionsprocess" ->
+                    "The adoption process involves three steps: interest form, a home visit, and the final agreement.";
+
+            case "Auktion_Info" ->
+                    "The auction closes at 7:00 PM tonight. Good luck with your bidding!";
+
+            case "Halso_Garantier" ->
+                    "All our animals are vet-checked and come with a 3-year hidden defect insurance.";
+
+            case "Kontakta_Agent" ->
+                    "I am connecting you directly to a staff member. Please wait a moment.";
+
+            case "Halsning" ->
+                    "Hello and welcome to Amanda's Shop! How can I help you today?";
+
+            case "Foder_Tillbehor" ->
+                    "We recommend our premium brands for puppies and high-performance feed for horses.";
+
+            case "Out_of_Scope" ->
+                    "I'm sorry, I only answer questions related to our pet shop and animals.";
+
             default -> String.format(
-                    "Jag är ledsen, jag förstod inte frågan. Vill du bli kopplad till en mänsklig agent? (predicted intent: %s, confidence: %.2f)",
-                    intent, confidence
+                    "I'm sorry, I didn't quite understand that. Would you like to be connected to a human agent? (Intent: %s)",
+                    intent
             );
         };
     }

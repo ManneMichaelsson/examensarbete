@@ -57,7 +57,7 @@ public class DataSetIteratorFactory {
         return new ListDataSetIterator(dataSets, 32);
     }
 
-    // RIKTIG Vektor Aggregering (Flyttad från MLProcessorDL4J:s predict-metod)
+    // Vektor Aggregering (Flyttad från MLProcessorDL4J:s predict-metod)
     private static INDArray getAggregatedVector(String text, Word2Vec word2VecModel, int vectorSize, TokenizerFactory tokenizerFactory) {
         if (word2VecModel == null) return Nd4j.zeros(vectorSize);
 
